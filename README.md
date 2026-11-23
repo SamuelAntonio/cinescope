@@ -2,6 +2,8 @@
 
 **Explore filmes, descubra histórias e organize seus favoritos.**
 
+https://samuelantonio.github.io/cinescope/
+
 CineScope é uma aplicação web de catálogo de filmes desenvolvida com React e JavaScript, integrada à API do TMDB para consulta de informações cinematográficas.
 
 O projeto foi desenvolvido como parte do meu portfólio Front-End, com foco em componentização, gerenciamento de estado, consumo de APIs e construção de interfaces responsivas.
